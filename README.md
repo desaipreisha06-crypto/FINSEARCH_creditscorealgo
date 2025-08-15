@@ -9,7 +9,7 @@ In addition to providing a score, the app also visualizes how the user's risk pr
 ### Prerequisites to run locally
 - Git LFS installed
 
----
+```
 
 ## 📂 File Structure
 ├── app.py                      # The main Streamlit application script
@@ -22,7 +22,7 @@ In addition to providing a score, the app also visualizes how the user's risk pr
 └── .gitignore                  # Specifies which files Git should ignore  
 
 
----
+```
 
 ## 🤖 Model Details
 
