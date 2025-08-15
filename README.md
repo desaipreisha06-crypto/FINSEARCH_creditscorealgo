@@ -12,15 +12,15 @@ In addition to providing a score, the app also visualizes how the user's risk pr
 ---
 
 ## 📂 File Structure
-
 ├── app.py                      # The main Streamlit application script
 ├── best_credit_score_model.joblib  # The trained machine learning model
 ├── imputer.joblib              # The saved imputer for handling missing values
 ├── scaler.joblib               # The saved feature scaler
 ├── cs-test-modified.csv        # The dataset used for the comparison plot
-├── .gitignore                  # Specifies which files Git should ignore
 ├── .gitattributes              # Configures Git LFS to track large files
-└── README.md                   # This file
+├── README.md                   # This file
+└── .gitignore                  # Specifies which files Git should ignore  
+
 
 ---
 
