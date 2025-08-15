@@ -9,18 +9,9 @@ In addition to providing a score, the app also visualizes how the user's risk pr
 ### Prerequisites to run locally
 - Git LFS installed
 
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
-
 ---
 
 ## 📂 File Structure
-
 
 ├── app.py                      # The main Streamlit application script
 ├── best_credit_score_model.joblib  # The trained machine learning model
@@ -30,7 +21,6 @@ In addition to providing a score, the app also visualizes how the user's risk pr
 ├── .gitignore                  # Specifies which files Git should ignore
 ├── .gitattributes              # Configures Git LFS to track large files
 └── README.md                   # This file
-
 
 ---
 
